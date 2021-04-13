@@ -102,7 +102,7 @@ export default {
   }
   .tilt {
     width: 100%;
-    height: 100%;
+    height: 90%;
     opacity: 1;
     position: absolute;
     top: 0;
